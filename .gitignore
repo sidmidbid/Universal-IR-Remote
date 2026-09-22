@@ -1,0 +1,24 @@
+# Build Output Folders (This is the most important part)
+Debug/
+Release/
+
+# Compiled Binaries and Maps
+*.elf
+*.hex
+*.bin
+*.map
+
+# Intermediate Object and Dependency Files
+*.o
+*.d
+*.su
+
+# STM32CubeIDE User-Specific Settings and Logs
+.settings/
+.metadata/
+*.launch
+*.log
+
+# Operating System Junk
+.DS_Store
+Thumbs.db
